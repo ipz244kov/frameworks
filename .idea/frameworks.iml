@@ -182,6 +182,8 @@
       <excludeFolder url="file://$MODULE_DIR$/symfony/vendor/symfony/var-exporter" />
       <excludeFolder url="file://$MODULE_DIR$/symfony/vendor/symfony/yaml" />
       <excludeFolder url="file://$MODULE_DIR$/symfony/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel/storage/app" />
+      <excludeFolder url="file://$MODULE_DIR$/laravel/storage/framework" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
